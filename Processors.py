@@ -53,7 +53,7 @@ class EulerProcessor(Processor):
         if not len(self._results): 
             inputValues = list(map(lambda x : int(x), inputValues))
             self._max = max(inputValues)
-            return list(inputValues)    
+            return inputValues  
         
         for i, val in enumerate(inputValues):
             x = int(val)
