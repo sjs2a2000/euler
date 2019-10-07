@@ -3,11 +3,11 @@
 Utilizes abiility to reduce paths and store in a single row table for dynamic programming.<br>
 By starting at the top of the triangle below and moving to adjacent numbers on the row below, the maximum total from top to bottom is 23.<br>
 3<br>
-7 4
-2 4 6
-8 5 9 3
-That is, 3 + 7 + 4 + 9 = 23.
-Find the maximum total from top to bottom .
+7 4<br>
+2 4 6<br>
+8 5 9 3<br>
+That is, 3 + 7 + 4 + 9 = 23.<br>
+Find the maximum total from top to bottom .<br>
 
 ## Test Cases
 * empty file : result is 0
