@@ -1,7 +1,7 @@
 import logging
 import argparse
-from InputProcessor import InputFile 
-from Processors import EulerProcessor
+from InputProcessors import InputFile 
+from OutputProcessors import EulerProcessor
 logging.basicConfig(format='%(levelname)s:%(message)s', level=logging.DEBUG)
 logger = logging.getLogger(__name__)
  
