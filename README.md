@@ -18,12 +18,12 @@ Find the maximum total from top to bottom .<br>
     
 ## TODO: 
 1. add unittests using python unit tests 
-2. add classes in separate file
+2. add classes in separate file (done)
 3. add timeit decorator to test performance 
 4. apply validation to input
 5. identify use cases on how the processor would be used
 6. add an input processor that puts input into queue, and processor reading from queue
-7. add to a git repo *** 
+7. add to a git repo *** (done)
 8. CICD
 9. automate checkout and deploy on aws for testing
 
