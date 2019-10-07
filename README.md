@@ -1,7 +1,6 @@
 # euler
 eulerproject
 
-"""
 utilizes abiility to reduce paths and store in a single row table for dynamic programming
 Test Cases:
     1. empty file : result is 0
@@ -20,6 +19,4 @@ TODO:
     7. add to a git repo ***
     8. CICD
     9. automate checkout and deploy on aws for testing 
- 
 
-"""
