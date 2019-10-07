@@ -1,6 +1,6 @@
 # euler
-eulerproject
-utilizes abiility to reduce paths and store in a single row table for dynamic programming
+
+utilizes abiility to reduce paths and store in a single row table for dynamic programming<p>
 
 Test Cases:
     1. empty file : result is 0
