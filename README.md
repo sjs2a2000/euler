@@ -1,7 +1,7 @@
 # euler
+Utilizes abiility to reduce paths and store in a single row table for dynamic programming
 
-Utilizes abiility to reduce paths and store in a single row table for dynamic programming<br>
-## Test Cases:<br>
+## Test Cases: <br>
     1. empty file : result is 0 <br>
     2. 1 row <br>
     3. 10 rows <br>
