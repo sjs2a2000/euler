@@ -1,8 +1,8 @@
 # euler
 ## Description
 Utilizes abiility to reduce paths and store in a single row table for dynamic programming.<br>
-By starting at the top of the triangle below and moving to adjacent numbers on the row below, the maximum total from top to bottom is 23.
-3
+By starting at the top of the triangle below and moving to adjacent numbers on the row below, the maximum total from top to bottom is 23.<br>
+3<br>
 7 4
 2 4 6
 8 5 9 3
