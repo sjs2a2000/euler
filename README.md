@@ -1,12 +1,12 @@
 # euler
 Utilizes abiility to reduce paths and store in a single row table for dynamic programming
 
-## Test Cases: <br>
-    1. empty file : result is 0 <br>
-    2. 1 row <br>
-    3. 10 rows <br>
-    4. not valid numbers <br>
-    5. negative numbers <br>
+## Test Cases
+    empty file : result is 0
+    1 row
+    10 rows
+    not valid numbers
+    negative numbers
     
 ## TODO:  <br>
     1. add unittests using python unit tests <br>
