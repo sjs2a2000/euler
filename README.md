@@ -17,7 +17,7 @@ Find the maximum total from top to bottom .<br>
 * negative numbers
     
 ## TODO: 
-1. add unittests using python unit tests 
+1. add unittests using python unit tests (done)
 2. add classes in separate file (done)
 3. add timeit decorator to test performance 
 4. apply validation to input
