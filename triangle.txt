@@ -1,0 +1,6 @@
+1. read in the file
+2. maximum from top to bottom
+3. need a set of test cases
+4. how do i deploy
+5. how do i run the integration testing
+
